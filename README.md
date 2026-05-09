@@ -169,9 +169,10 @@ If you are visiting my profile, start here:
 ## Contact
 
 - Location: Berlin, Germany
-- LinkedIn: https://www.linkedin.com/in/chenmingzhong
-- GitHub: https://github.com/cmz-arch
-- Email: ben.chenmingzhong@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chenmingzhong)
+- [![LinkedIn](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/cmz-arch)
+- [![LinkedIn](https://img.shields.io/badge/Email-Connect-blue)](ben.chenmingzhong@gmail.com)
+
 
 ---
 
